@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+Author: Hailey Nelson 90175126
+Due Date: June 22, 2025
